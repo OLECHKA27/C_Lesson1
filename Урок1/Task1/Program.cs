@@ -4,8 +4,11 @@
 int value = 100;
 Console.WriteLine(value);
 
-double D = 5,55;
+double D = 5.55;
 char C = '!';
 bool b = true;
-Console.WriteLine(D+C+b);
+Console.WriteLine(D);
+Console.WriteLine(C);
+Console.WriteLine(b);
+
 
