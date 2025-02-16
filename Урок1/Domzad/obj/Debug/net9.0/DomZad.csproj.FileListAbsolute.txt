@@ -1,0 +1,15 @@
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\bin\Debug\net9.0\DomZad.exe
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\bin\Debug\net9.0\DomZad.deps.json
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\bin\Debug\net9.0\DomZad.runtimeconfig.json
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\bin\Debug\net9.0\DomZad.dll
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\bin\Debug\net9.0\DomZad.pdb
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.AssemblyInfoInputs.cache
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.AssemblyInfo.cs
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.csproj.CoreCompileInputs.cache
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.sourcelink.json
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.dll
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\refint\DomZad.dll
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.pdb
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\DomZad.genruntimeconfig.cache
+C:\Users\79150\Downloads\ОБУЧЕНИЕ\sharp\урок1\DomZad\obj\Debug\net9.0\ref\DomZad.dll
