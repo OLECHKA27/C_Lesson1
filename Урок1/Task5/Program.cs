@@ -15,3 +15,13 @@ for (int i = 1; i <= L; i++)
 }
 
 Console.WriteLine(result);
+
+int T = 11;
+int S = 1;
+while (S <= T)
+{
+    Console.Write(S);
+    Console.Write(' ');
+    S++;
+}
+
